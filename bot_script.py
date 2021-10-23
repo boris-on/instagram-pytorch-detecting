@@ -11,7 +11,6 @@ channel_name = "@flowers_test"
 
 bot = telebot.TeleBot(config.TOKEN)
 
-
 local_time = 600
 
 tag = 'flowers'
